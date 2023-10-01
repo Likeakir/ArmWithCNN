@@ -2,6 +2,9 @@ import cv2
 import os
 import time
 import uuid
+
+# Script For Collecting Images
+
 Img_path = '/Users/alf/Documents/DataCollectingTry/Images/CollectedImages'
 labels= ['stop','forward','back']
 num_imgs = 25
